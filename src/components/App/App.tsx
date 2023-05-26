@@ -1,8 +1,3 @@
-
-
 export function App() {
-  return (
-    <>
-    </>
-  );
+  return <></>;
 }
